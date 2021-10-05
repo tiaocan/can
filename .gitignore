@@ -1,0 +1,32 @@
+# Build
+*.obj
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.dll
+
+# SCons
+*.dblite
+
+# QtCreator
+*.config
+*.creator
+*.user
+*.files
+*.includes
+
+# Godot
+.import/
+logs/
+default_env.tres
+
+# VSCode
+*.vs/
+
+# Windows
+*.bat
+
+# Misc
+_draft/
+_old/
